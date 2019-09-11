@@ -1,0 +1,49 @@
+.user-card-header {
+  min-height: 20% !important;
+  max-height: 20% !important;
+  background-color: #027293;
+}
+.rounded-circle {
+  width: 120px;
+  margin-top: -64px !important;
+
+  border: 5px solid white;
+}
+.user-name {
+  text-align: center;
+  color: #505151;
+  font-size: 35px;
+  font-weight: 500;
+}
+.user-profession {
+  color: #5295e3;
+  font-size: 25px;
+  text-align: center;
+  font-weight: 400;
+}
+.profile-card {
+  height: 450px;
+  text-align: center;
+  margin-top: 15px;
+  background-color: white;
+}
+.profile-card:hover {
+  box-shadow: 2px 2px 3px #b7b3b3;
+}
+.btn {
+  background-color: #34aed2;
+  width: 150px;
+  height: 48px;
+
+  text-align: center;
+  padding: 9px;
+}
+.posts-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: #f7f7f7;
+}
+.card-title {
+  color: #ff878b;
+}
